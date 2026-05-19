@@ -138,4 +138,3 @@ const Modal = ({ isOpen, onClose, data, type }) => {
 }
 
 export default Modal;
-//need to work on modal for responsibilities and tech stack
